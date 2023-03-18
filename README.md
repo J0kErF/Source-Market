@@ -1,5 +1,5 @@
 # Source-Market
-ecommerce website for source codes
+ecommerce website for source code using C# and ASP.NET
 
 The aim of this project was to develop a full-stack eCommerce website using C# for the backend and ASP.NET for the frontend.
 To create an engaging user experience, HTML, JS, and CSS were utilized to build the website's interface.
