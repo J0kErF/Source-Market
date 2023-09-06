@@ -1,23 +1,50 @@
 # Source-Market
-ecommerce website for source code using C# and ASP.NET
 
-The aim of this project was to develop a full-stack eCommerce website using C# for the backend and ASP.NET for the frontend.
-To create an engaging user experience, HTML, JS, and CSS were utilized to build the website's interface.
-Additionally, the website is connected to a database, which was implemented using MS Access,
-and several SQL commands were used to extract the relevant data for the users.
+An eCommerce website for source code built with C# and ASP.NET.
 
-The project is divided into two primary folders for the frontend.
-The first folder contains pages with a simple UI that do not require authorization, such as the homepage and catalog.
-In contrast, the second folder, known as "USERAREA," contains pages that require authorization, such as the cart, my products, and profile pages.
+## Features
 
-The backend of the project consists of a folder containing several C# classes that perform various functions.
-These classes have been rated based on their complexity, with some being relatively easy and others more challenging.
-Additionally, there are universal functions that can adapt to the data they receive.
+* Sell and buy source code.
+* User authentication and authorization.
+* Cart system.
+* Profile page.
+* Product reviews.
+* Contact form.
 
-This project took one month to complete and was developed as a school project with a weight of 5 units.
-Despite its classification as a difficult project, it received a perfect score of 100.
+## Technologies
 
+* C#
+* ASP.NET
+* HTML
+* CSS
+* JavaScript
+* MS Access
 
-MOHAMMAD YOSEF
-mohmd.sy2002@gmail.com
-https://www.linkedin.com/in/mohammad-yosef/
+## Requirements
+
+* Visual Studio 2019 or newer
+* .NET Framework 4.8 or newer
+* MS Access
+
+## Installation
+
+1. Clone the repository.
+2. Open the project in Visual Studio.
+3. Install the necessary NuGet packages.
+4. Create a new database and update the connection string in the AppSettings.json file.
+5. Run the project.
+
+## Usage
+
+1. Create an account or sign in to your existing account.
+2. Browse the catalog and add products to your cart.
+3. Proceed to checkout and pay for your order.
+4. Once your order is complete, you can download the source code.
+
+## Author
+
+Mohammad Yosef
+
+## License
+
+The Source-Market project is released under the MIT License.
