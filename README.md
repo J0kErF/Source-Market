@@ -10,6 +10,10 @@ An eCommerce website for source code built with C# and ASP.NET.
 * Profile page.
 * Product reviews.
 * Contact form.
+* Admin Monitoring Dashboard.
+* User Dashbord.
+* Login management With email:
+  `I have used the Email Web Service that I have created earlier you can find it in my repositories page`.
 
 ## Technologies
 
@@ -19,6 +23,8 @@ An eCommerce website for source code built with C# and ASP.NET.
 * CSS
 * JavaScript
 * MS Access
+* APIs
+* Bootstrap
 
 ## Requirements
 
